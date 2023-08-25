@@ -1,0 +1,16 @@
+:root {}
+
+body {
+    font-family: Inter, sans-serif;
+    font-size: 12px;
+    color: #959494;
+}
+
+#app {
+    height: 100vh;
+    height: 100dvh;
+    width: 100vw;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
