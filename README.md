@@ -1,5 +1,3 @@
-# Тестовое Junior WEB Developer
-
 ### Использованные технологии
 - Vue 3 (Composition API)
 
